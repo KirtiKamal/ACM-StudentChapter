@@ -1,1 +1,1 @@
-# ACM-StudentChapter
+# Trident-ACM-StudentChapter
